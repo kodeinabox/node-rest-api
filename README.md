@@ -1,4 +1,4 @@
-# Node REST-API with MongDB
+# Node REST-API with Express MongDB
 
 A REST-API application to get you started with performing CRUD operations.
 
